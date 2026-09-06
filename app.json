@@ -1,0 +1,27 @@
+{
+  "name": "Pulsefy",
+  "alternateName": "HeartRateMonitor",
+  "storeName": {
+    "ios": "Pulsefy: Heart Rate Monitor"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "wikidata": "Q141016761",
+  "platforms": ["ios"],
+  "category": "Health & Fitness",
+  "price": "free",
+  "stores": {
+    "appStore": "https://apps.apple.com/us/app/pulsefy-heart-rate-monitor/id6774250503"
+  },
+  "website": "https://firstpoint.com.tr/apps/heartratemonitor",
+  "privacyPolicy": "https://firstpoint.com.tr/heartratemonitor/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/heartratemonitor/terms-of-service.html",
+  "accessibility": "https://firstpoint.com.tr/apps/heartratemonitor/accessibility",
+  "support": "https://form.jotform.com/261403065321040",
+  "updated": "2026-09-07"
+}
