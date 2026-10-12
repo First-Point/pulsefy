@@ -20,7 +20,6 @@ Pulsefy is a camera based heart rate monitor app for iPhone developed by First P
 | Privacy policy | https://firstpoint.com.tr/heartratemonitor/privacy-policy.html |
 | Terms | https://firstpoint.com.tr/heartratemonitor/terms-of-service.html |
 | Accessibility | https://firstpoint.com.tr/apps/heartratemonitor/accessibility |
-| Wikidata | https://www.wikidata.org/wiki/Q141016761 |
 
 ## What it does
 
@@ -74,7 +73,6 @@ More questions are answered at https://firstpoint.com.tr/apps/heartratemonitor.
 - Website: https://firstpoint.com.tr/apps/heartratemonitor
 - Company: https://firstpoint.com.tr and https://github.com/First-Point
 - App Store: https://apps.apple.com/us/app/pulsefy-heart-rate-monitor/id6774250503
-- Wikidata: https://www.wikidata.org/wiki/Q141016761
 - Machine-readable facts: [app.json](app.json)
 
 ## License
